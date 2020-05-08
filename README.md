@@ -1,5 +1,6 @@
 # MyWackyPandemicWiki
 Welcome to my experiement in managing the knowledge that I discover about this pandemic. It's a continual work in progress that I'll update this TiddlyWiki at least once a week...maybe.
+The URL for the wiki is https://wb2ifs.github.io/MyWackyPandemicWiki/
 
 Start with the COVID-19Links index below
 COVID-19_Prep_checklist was what I started with as the "clouds were gathering"
